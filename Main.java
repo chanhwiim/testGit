@@ -6,5 +6,8 @@ public class Main {
 
         System.out.println(zoo.lionSound());
         System.out.printf(animalSound.getTigerSound());
+
+        Cat cat = new Cat();
+        cat.cat();
     }
 }
