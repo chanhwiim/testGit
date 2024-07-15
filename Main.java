@@ -9,5 +9,6 @@ public class Main {
 
         Cat cat = new Cat();
         cat.cat();
+        System.out.println("test");
     }
 }
